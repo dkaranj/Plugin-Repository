@@ -189,4 +189,15 @@
         "github": "https://github.com/exoforb/GenieACS-Manager",
         "last_update": "2026-01-21"
     }
+	{
+"id": "plugin-fup-management",
+"name": "Fair Usage Policy (FUP) Management (PAID)",
+"description": "A PHPNuxBill plugin for monitoring customer data usage, enforcing configurable FUP data limits, and automatically applying MikroTik speed throttling when usage thresholds are reached.",
+"ispaid": true,
+"author": "Duncan Karanja",
+"url": "https://t.me/duntech_k",
+"github": "https://github.com/dkaranj/phpnuxbill-fup",
+"last_update": "2026-09-28"
+}
+
 ]
